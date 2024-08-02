@@ -1,16 +1,16 @@
-## Hi there 👋
+**bem vindo ao meu perfil** 🫀
 
-<!--
-**Inaragab17/Inaragab17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e inara oliveira
 
-Here are some ideas to get you started:
+estou estudando na [Alura](https://alura.com.br).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou me desenvolvendo na linguagem javaScript
+
+utilizo esse espaço para minha organizaçao e irei compartilhar os meus projetos
+![](https://media1.tenor.com/m/-P1QIGy1uscAAAAC/winnie-the-pooh-movie.gif)
+
+![](https://media1.tenor.com/m/PtRzth_dYvEAAAAC/goodmorning-love.gif)
+
+
+
+
